@@ -67,7 +67,7 @@ namespace PracticaDeMetodos
 
         private void btnTrapecio_Click(object sender, EventArgs e)
         {
-            int altura1 = 
+            int altura1;
         }
     }
 }
